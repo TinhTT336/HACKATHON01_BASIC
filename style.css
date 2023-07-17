@@ -19,13 +19,13 @@
 
 .content_item {
     position: absolute;
-    bottom: 11%;
+    bottom: 12%;
     left: 28%;
     font-size: 2rem;
     font-weight: bold;
     line-height: 150%;
     background-color: rgba(223, 141, 17, 0.69);
-    width: 30rem;
+    width: 35rem;
     padding: 0.6rem;
     letter-spacing: 3px;
     word-spacing: 5px;

@@ -46,7 +46,6 @@
     justify-content: space-around;
     margin: auto;
     gap: 1.7rem;
-
 }
 
 h3 {
@@ -67,5 +66,5 @@ h3 {
 }
 
 .content1_img {
-    height: 300px;
+    height: 280px;
 }

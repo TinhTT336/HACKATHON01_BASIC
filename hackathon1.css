@@ -32,7 +32,7 @@
 }
 
 .content1 img {
-    width: 350px;
+    width: 360px;
     height: 180px;
     box-shadow: 0px -3px rgba(223, 141, 17, 0.69);
     margin-top: 1rem;
@@ -40,12 +40,12 @@
 
 .content1 {
     display: grid;
-    width: 760px;
+    width: 720px;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
     justify-content: space-around;
     margin: auto;
-    gap: 1.8rem;
+    gap: 1.5rem;
 
 }
 

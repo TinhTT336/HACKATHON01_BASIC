@@ -20,22 +20,22 @@
 .content_item {
     position: absolute;
     bottom: 12%;
-    left: 28%;
+    left: 22.5%;
     font-size: 2rem;
     font-weight: bold;
     line-height: 150%;
     background-color: rgba(223, 141, 17, 0.69);
     width: 35rem;
     padding: 0.6rem;
-    letter-spacing: 3px;
-    word-spacing: 5px;
+    /* letter-spacing: 3px; */
+    word-spacing: 3px;
 }
 
 .content1 img {
     width: 360px;
     height: 180px;
     box-shadow: 0px -3px rgba(223, 141, 17, 0.69);
-    margin-top: 1rem;
+    margin-top: 1.5rem;
 }
 
 .content1 {
@@ -45,7 +45,7 @@
     grid-template-columns: 1fr 1fr;
     justify-content: space-around;
     margin: auto;
-    gap: 1.5rem;
+    gap: 1.7rem;
 
 }
 
@@ -53,15 +53,19 @@ h3 {
     font-size: 1.6rem;
     padding: 10px 0;
     text-align: left;
-    letter-spacing: 2px;
-    word-spacing: 5px;
+    /* letter-spacing: 2px; */
+    word-spacing: 3px;
     color: rgba(41, 39, 39, 0.587);
 
 }
 
 .content_img p {
     font-size: 1.3rem;
-    letter-spacing: 2px;
-    word-spacing: 7px;
+    /* letter-spacing: 2px; */
+    /* word-spacing: 7px; */
     color: rgba(41, 39, 39, 0.587);
+}
+
+.content1_img {
+    height: 300px;
 }
